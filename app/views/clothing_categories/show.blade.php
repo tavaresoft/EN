@@ -1,0 +1,1 @@
+F:\PHP\htdocs\etnoc_a\app/views/clothing_categories/show.blade.php

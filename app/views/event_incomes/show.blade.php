@@ -1,0 +1,1 @@
+F:\PHP\htdocs\etnoc_a\app/views/event_incomes/show.blade.php
